@@ -1,2 +1,2 @@
 # DesignPatterns
-Epam - Design Patterns
+Epam task on Design Patterns
